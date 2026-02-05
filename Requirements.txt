@@ -1,5 +1,4 @@
 streamlit
-tabula-py
+pdfplumber
 pandas
 openpyxl
-jpype1
